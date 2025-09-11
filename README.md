@@ -25,6 +25,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
@@ -51,7 +52,7 @@
   *Responsive portfolio built with HTML, CSS, JS.*  
 
 - [🍄 Discover Mushrooms in Finland (WordPress, GitHub)](https://github.com/Nyukaa/BCNew/tree/main/Wordpress/discovermushrooms/app/public/wp-content/themes/nature) | [Demo](https://discovermushrooms.fwh.is/)  
-  *Custom WordPress theme with guide structure.*  
+  *Custom WordPress theme with PHP functions, custom archive and single pages.*  
 
 - [⚛️ React Projects (GitHub)](https://github.com/Nyukaa/React)  
   *Learning apps: ToDo, Weather, and more.*  
@@ -63,7 +64,7 @@
 
 ## 📚 Education  
 
-- **Business College Helsinki (2025– )** – Web Development (HTML, CSS, JS, SQL, WordPress, React)  
+- **Business College Helsinki (2025– )** – Web Development (HTML, CSS, JS, SQL, WordPress, PHP, React)  
 - **Full Stack Open, Helsinki University (2024– )** – React, Node.js, GraphQL, TypeScript  
 - **Aalto University (2024)** – Web Development (Svelte, Node.js, Docker)  
 

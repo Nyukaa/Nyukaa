@@ -75,7 +75,16 @@
 - **Ural State University (2010)** – Master’s in Mathematics and IT
   
 ---
+## 📫 Connect with me  
 
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nyukaa)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-a8654.web.app/index.html)  
+
+
+
+---
 <!--
 
 ## 🛠 Tech Stack  
@@ -92,20 +101,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="50px" />
 </p>
-## 📫 Connect with me  
 
 ---
 
 ✨ Check pinned repos below for code samples and projects!
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nyukaa)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-a8654.web.app/index.html)  
-
-
-
----
-
 ## 📊 GitHub Stats  
 
 ![Nyukaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyukaa&show_icons=true&theme=tokyonight)  

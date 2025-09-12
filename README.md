@@ -5,7 +5,9 @@
 - 🌱 Currently studying **Web Development at Business College Helsinki**  
 - 🚀 Learning full stack with **Full Stack Open (University of Helsinki)**  
 - 🖥️ Building projects with **JavaScript, React, HTML, CSS, WordPress**  
-- ⚡ Past experience: **SEO, project coordination, education**  
+- ⚡ Past experience: **SEO, project coordination, education**
+
+🌿 Inspired by nature, motivated to learn, and eager to grow as a developer. 
 
 ---
 
@@ -57,8 +59,8 @@
 - [⚛️ React Projects (GitHub)](https://github.com/Nyukaa/React)  
   *Learning apps: ToDo, Weather, and more.*  
 
-- [📜 JS Projects (GitHub)](https://github.com/Nyukaa/BCNew)  
-  *Vanilla JavaScript exercises and apps.*  
+- [📜 JS Projects (GitHub)](https://github.com/Nyukaa/BCNew/blob/main/README.md)  
+  *Vanilla JavaScript apps.* 
 
 ---
 

@@ -57,7 +57,10 @@
   *Custom WordPress theme with PHP functions, custom archive and single pages.*  
 
 - [⚛️ React Projects (GitHub)](https://github.com/Nyukaa/React)  
-  *Learning apps: ToDo, Weather, and more.*  
+  - 📊 Unicafe – Feedback App [GitHub](https://github.com/Nyukaa/BCNew/blob/main/React/02-soveltavat-tehtavat/ex11/README.md)
+  - 🎭 Anecdotes – Voting App [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex14)
+  - 📞 Phonebook – CRUD App [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex2_17)
+  - 🌍 Countries App [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex2_20)
 
 - [📜 JS Projects (GitHub)](https://github.com/Nyukaa/BCNew/blob/main/README.md)  
   *Vanilla JavaScript apps.* 

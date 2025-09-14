@@ -53,7 +53,7 @@
 - [🌐 Portfolio Website (GitHub)](https://github.com/Nyukaa/Portfolio) | [Demo](https://portfolio-a8654.web.app/index.html)  
   *Responsive portfolio built with HTML, CSS, JS.*  
 
-- [🍄 Discover Mushrooms in Finland (WordPress, GitHub)](https://github.com/Nyukaa/BCNew/tree/main/Wordpress/discovermushrooms/app/public/wp-content/themes/nature) | [Demo](https://discovermushrooms.fwh.is/)  
+- [🍄 Discover Mushrooms in Finland (GitHub)](https://github.com/Nyukaa/BCNew/tree/main/Wordpress/discovermushrooms/app/public/wp-content/themes/nature) | [Demo](https://discovermushrooms.fwh.is/)  
   *Custom WordPress theme with PHP functions, custom archive and single pages.*  
 
 - [⚛️ React Projects (GitHub)](https://github.com/Nyukaa/React)  
@@ -63,7 +63,22 @@
   - 🌍 Countries App [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex2_20)
 
 - [📜 JS Projects (GitHub)](https://github.com/Nyukaa/BCNew/blob/main/README.md)  
-  *Vanilla JavaScript apps.* 
+ 
+  - **🥞 Pannukakku sivut (1–3)**  [GitHub](https://github.com/Nyukaa/BCNew/tree/main/HTML/09-viikko/Pannukakku)
+
+     Pancake project pages, divided into order page and admin page.  
+    🔗 [Live Demo – Etusivu](https://pannukakku-87646.web.app)  
+    🔗 [Live Demo – Tilaus](https://pannukakku-87646.web.app/tilaus.html)  
+  
+  - **🐾 Pikku eläintarha**  [GitHub](https://github.com/Nyukaa/BCNew/tree/main/JSHarjoitukset/viikko_7/eläntarha)  
+      A small interactive zoo app to practice DOM manipulation.  
+    🔗 [Live Demo](https://pikku-elaintarha-88c4c.web.app)  
+    
+  
+  - **🏧 Pankkiautomaattisimulaattori**  [GitHub](https://github.com/Nyukaa/BCNew/tree/main/JSHarjoitukset/viikko_4/Pankki)  
+      A bank ATM simulator demonstrating user input and logic handling.  
+    🔗 [Live Demo](https://pankkiautomaattisimulaattori.web.app)  
+    
 
 ---
 

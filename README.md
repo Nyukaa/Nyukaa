@@ -64,20 +64,15 @@
 
 - [📜 JS Projects (GitHub)](https://github.com/Nyukaa/BCNew/blob/main/README.md)  
  
-  - **🥞 Pannukakku sivut (1–3)**  [GitHub](https://github.com/Nyukaa/BCNew/tree/main/HTML/09-viikko/Pannukakku)
+  - **🥞 Pannukakku sivut (1–3)**  [GitHub](https://github.com/Nyukaa/BCNew/tree/main/HTML/09-viikko/Pannukakku) | [Demo – Etusivu](https://pannukakku-87646.web.app)  | [Demo – Tilaus](https://pannukakku-87646.web.app/tilaus.html) 
 
-     Pancake project pages, divided into order page and admin page.  
-    🔗 [Live Demo – Etusivu](https://pannukakku-87646.web.app)  
-    🔗 [Live Demo – Tilaus](https://pannukakku-87646.web.app/tilaus.html)  
-  
-  - **🐾 Pikku eläintarha**  [GitHub](https://github.com/Nyukaa/BCNew/tree/main/JSHarjoitukset/viikko_7/eläntarha)  
-      A small interactive zoo app to practice DOM manipulation.  
-    🔗 [Live Demo](https://pikku-elaintarha-88c4c.web.app)  
+    Pancake project pages, divided into order page and admin page.  
     
-  
-  - **🏧 Pankkiautomaattisimulaattori**  [GitHub](https://github.com/Nyukaa/BCNew/tree/main/JSHarjoitukset/viikko_4/Pankki)  
-      A bank ATM simulator demonstrating user input and logic handling.  
-    🔗 [Live Demo](https://pankkiautomaattisimulaattori.web.app)  
+  - **🐾 Pikku eläintarha**  [GitHub](https://github.com/Nyukaa/BCNew/tree/main/JSHarjoitukset/viikko_7/eläntarha) | [Demo](https://pikku-elaintarha-88c4c.web.app)     
+  A small interactive zoo app to practice DOM manipulation.   
+    
+  - **🏧 Pankkiautomaattisimulaattori**  [GitHub](https://github.com/Nyukaa/BCNew/tree/main/JSHarjoitukset/viikko_4/Pankki) | [Demo](https://pankkiautomaattisimulaattori.web.app)  
+      A bank ATM simulator demonstrating user input and logic handling.   
     
 
 ---

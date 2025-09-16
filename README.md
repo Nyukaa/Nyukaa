@@ -74,7 +74,7 @@
   - 📊 Unicafe – Feedback App [GitHub](https://github.com/Nyukaa/BCNew/blob/main/React/02-soveltavat-tehtavat/ex11/README.md)  | [Demo](https://nyukaa.github.io/BCNew/Unicafe/)
   - 🎭 Anecdotes – Voting App [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex14) | [Demo]( https://nyukaa.github.io/BCNew/Anecdotes/)
   - 📞 Phonebook – CRUD App [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex2_17)  
-  - 🌍 Countries App [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex2_20)  
+  - 🌍 Countries App [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex2_20) | [Demo]( https://nyukaa.github.io/BCNew/Countries/)
 
 - 📜 **JS Projects** [(GitHub)](https://github.com/Nyukaa/BCNew/blob/main/README.md)  
   

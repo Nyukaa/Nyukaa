@@ -50,7 +50,7 @@
 
 ## 🔑 Featured Projects  
 
-- 🌐 **Portfolio Website** [(GitHub)](https://github.com/Nyukaa/Portfolio) | [Demo](https://portfolio-a8654.web.app/index.html)  
+- 🌐 **Portfolio Website** [(GitHub)](https://github.com/Nyukaa/Portfolio) | [Demo](https://nyukaa.github.io/BCNew/Portfolio/index.html)  
   *Responsive portfolio built with HTML, CSS, JS.*  
    
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

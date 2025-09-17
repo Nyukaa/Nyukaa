@@ -51,20 +51,20 @@
 ## 🔑 Featured Projects  
 
 - 🌐 **Portfolio Website** [(GitHub)](https://github.com/Nyukaa/Portfolio) | [Demo](https://nyukaa.github.io/BCNew/Portfolio/index.html)  
-  *Responsive portfolio built with HTML, CSS, JS.*  
-   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- 🍄 **Discover Mushrooms in Finland** [(GitHub)](https://github.com/Nyukaa/BCNew/tree/main/Wordpress/discovermushrooms/app/public/wp-content/themes/nature) | [Demo](https://discovermushrooms.fwh.is/)  
-  *Custom WordPress theme with PHP functions, custom archive and single pages.*  
-  Includes a **custom Tour Catalog plugin** with shortcode and widget to display upcoming guided mushroom tours.
+  *Responsive portfolio built with HTML, CSS, JS.*  
+   
 
-  
+- 🍄 **Discover Mushrooms in Finland** [(GitHub)](https://github.com/Nyukaa/BCNew/tree/main/Wordpress/discovermushrooms/app/public/wp-content/themes/nature) | [Demo](https://discovermushrooms.fwh.is/)  
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  *Custom WordPress theme with PHP functions, custom archive and single pages.*  
+  Includes a **custom Tour Catalog plugin** with shortcode and widget to display upcoming guided mushroom tours.
+
 
 - ⚛️ **React Projects** [(GitHub)](https://github.com/Nyukaa/React)  
   

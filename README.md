@@ -76,7 +76,7 @@
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
   - 📊 Unicafe – Feedback App [GitHub](https://github.com/Nyukaa/BCNew/blob/main/React/02-soveltavat-tehtavat/ex11/README.md)  | [Demo](https://nyukaa.github.io/BCNew/Unicafe/)
   - 🎭 Anecdotes – Voting App [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex14) | [Demo]( https://nyukaa.github.io/BCNew/Anecdotes/)
-  - 📞 Phonebook – CRUD App [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex2_17)  
+  - 📞 Phonebook – CRUD App [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex2_17)  | [Demo](https://phonebook-backend-iagy.onrender.com/)
   - 🌍 Countries App [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex2_20) | [Demo]( https://nyukaa.github.io/BCNew/Countries/)
 
 - 📜 **JS Projects** [(GitHub)](https://github.com/Nyukaa/BCNew/blob/main/README.md)  

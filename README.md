@@ -68,22 +68,26 @@
   
   *Custom WordPress theme with PHP functions, custom archive and single pages.*  
   Includes a **custom Tour Catalog plugin** with shortcode and widget to display upcoming guided mushroom tours.
+---
 
+⚛️ **React Projects** [(GitHub)](https://github.com/Nyukaa/React)  
 
-- ⚛️ **React Projects** [(GitHub)](https://github.com/Nyukaa/React)  
-  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-  - 📊 Unicafe – Feedback App [GitHub](https://github.com/Nyukaa/BCNew/blob/main/React/02-soveltavat-tehtavat/ex11/README.md)  | [Demo](https://nyukaa.github.io/BCNew/Unicafe/)
-  - 🎭 Anecdotes – Voting App [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex14) | [Demo]( https://nyukaa.github.io/BCNew/Anecdotes/)
-  - 🌍 Countries App [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex2_20) | [Demo]( https://nyukaa.github.io/BCNew/Countries/)
-    
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  - 📞 Phonebook – CRUD App [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex2_17)  | [Demo](https://phonebook-backend-iagy.onrender.com/)   
-    
-- 📜 **JS Projects** [(GitHub)](https://github.com/Nyukaa/BCNew/blob/main/README.md)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
+- 📊 **Unicafe – Feedback App** [GitHub](https://github.com/Nyukaa/BCNew/blob/main/React/02-soveltavat-tehtavat/ex11/README.md) | [Demo](https://nyukaa.github.io/BCNew/Unicafe/)  
+- 🎭 **Anecdotes – Voting App** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex14) | [Demo](https://nyukaa.github.io/BCNew/Anecdotes/)  
+- 🌍 **Countries App** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex2_20) | [Demo](https://nyukaa.github.io/BCNew/Countries/)  
+
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Mongo](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+- 📞 **Phonebook – CRUD App** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/Phonebook_with_mongo) | [Demo](https://phonebook-backend-iagy.onrender.com/)
+
+---    
+📜 **JS Projects** [(GitHub)](https://github.com/Nyukaa/BCNew/blob/main/README.md)  
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -94,13 +98,12 @@
     A small interactive zoo app to practice DOM manipulation.  
   - **🏧 Pankkiautomaattisimulaattori** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/JSHarjoitukset/viikko_4/Pankki) | [Demo](https://pankkiautomaattisimulaattori.web.app)  
     A bank ATM simulator demonstrating user input and logic handling.  
-
-- 🛠️ **Aalto University Web Software Development** [(GitHub)](https://github.com/Nyukaa/Aalto-Full-Stack)  
+---
+  🛠️ **Aalto University Web Software Development** [(GitHub)](https://github.com/Nyukaa/Aalto-Full-Stack)  
   *Lightweight management APIs built with Deno & Hono, PostgreSQL, Docker, and Eta templates.*  
  
   ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
   ![Hono](https://img.shields.io/badge/Hono-00C9FF?style=for-the-badge&logo=javascript&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)

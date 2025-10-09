@@ -87,8 +87,8 @@
 ![Mongo](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 - 📞 **Phonebook – CRUD App** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/Phonebook_with_mongo) | [Demo](https://phonebook-backend-iagy.onrender.com/)
--  ✏️ **Notes – CRUD App**  [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/01-oppimistehtavat/notes_mongo)
-[Notes Demo](https://notes-with-mongo.onrender.com)
+-  ✏️ **Notes – CRUD App**  [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/01-oppimistehtavat/notes_mongo) |
+[ Demo](https://notes-with-mongo.onrender.com)
 ---    
 📜 **JS Projects** [(GitHub)](https://github.com/Nyukaa/BCNew/blob/main/README.md)  
   

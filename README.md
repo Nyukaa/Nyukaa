@@ -60,9 +60,30 @@
   
   *Responsive portfolio built with HTML, CSS, JS.*  
    
+- 🌍 Find Your Community – WordPress Theme, Plugin & React Filters [(GitHub)](https://github.com/Nyukaa/AppEvent)| [Demo](https://findcommunity.great-site.net/)  
+
+  <p >
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP — WordPress templates, CPTs, meta fields, shortcodes" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5 / CSS3 — responsive structure and layout" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript / React — dynamic filtering system" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" title="WordPress API — content rendering and taxonomy logic" />
+    <img src="https://img.shields.io/badge/Weglot-0D0D0D?style=for-the-badge&logoColor=white" alt="Weglot" title="Weglot — bilingual support EN/FI" />
+  </p>
+   
+  <p ">
+    👩‍💻 Authors  • 
+    <a href="https://github.com/Kopiika">@Kopiika</a> • 
+    <a href="https://github.com/mashalink">@mashalink</a> • 
+    <a href="https://github.com/Nyukaa">@Nyukaa</a>
+  </p>
+  
+  *A custom WordPress prototype website for discovering **communities and events**, combining educational content, filtered listings, and detailed presentation pages. Fully responsive, bilingual (English & Finnish), and interactive with a React-based filtering interface.*
+
 
 - 🍄 **Discover Mushrooms in Finland** [(GitHub)](https://github.com/Nyukaa/BCNew/tree/main/Wordpress/discovermushrooms/app/public/wp-content/themes/nature) | [Demo](https://discovermushrooms.fwh.is/)
-- 
+  
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

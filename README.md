@@ -60,7 +60,7 @@
   
   *Responsive portfolio built with HTML, CSS, JS.*  
    
-- 🌍 Find Your Community – WordPress Theme, Plugin & React Filters [(GitHub)](https://github.com/Nyukaa/AppEvent)| [Demo](https://findcommunity.great-site.net/)  
+- 🌍 **Find Your Community**  [(GitHub)](https://github.com/Nyukaa/AppEvent)| [Demo](https://findcommunity.great-site.net/)  
 
   <p >
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP — WordPress templates, CPTs, meta fields, shortcodes" />

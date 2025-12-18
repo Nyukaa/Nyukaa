@@ -102,7 +102,11 @@
 
 - 📊 **Unicafe – Feedback App** [GitHub](https://github.com/Nyukaa/BCNew/blob/main/React/02-soveltavat-tehtavat/ex11/README.md) | [Demo](https://nyukaa.github.io/BCNew/Unicafe/)  
 - 🎭 **Anecdotes – Voting App** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex14) | [Demo](https://nyukaa.github.io/BCNew/Anecdotes/)  
-- 🌍 **Countries App** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex2_20) | [Demo](https://nyukaa.github.io/BCNew/Countries/)  
+- 🌍 **Countries App** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex2_20) | [Demo](https://nyukaa.github.io/BCNew/Countries/)
+  
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white) 
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
+- 👥 **HR App – Employee Management** [GitHub](https://github.com/Nyukaa/hrApp) | [Live Demo](https://hrapp-ymdw.onrender.com/)  
 
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Mongo](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  

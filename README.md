@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
 </p>
 
@@ -59,7 +60,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
   *Responsive portfolio built with HTML, CSS, JS.*  
-   
+ ---  
 - 🌍 **Find Your Community**  [(GitHub)](https://github.com/Nyukaa/AppEvent)| [Demo](https://findcommunity.great-site.net/)  
 
   <p >
@@ -80,8 +81,26 @@
   </p>
   
   *A custom WordPress prototype website for discovering **communities and events**, combining educational content, filtered listings, and detailed presentation pages. Fully responsive, bilingual (English & Finnish), and interactive with a React-based filtering interface.*
+ --- 
+- 🎹 **Piano Trainer – React + Vite + Express** [(GitHub)](https://github.com/Nyukaa/musicApp/) | [Live Demo](https://musicapp-1-983j.onrender.com/)
 
-
+  <p >
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  </p>
+  
+  <p >
+    <img src="https://img.shields.io/badge/Tone.js-ff9800?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/VexFlow-4a148c?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Pitchy-0288d1?style=for-the-badge" />
+  </p>
+  
+    *Full-stack piano training web app with real-time pitch detection, sheet music rendering, and interactive exercises.*  
+  *Frontend: React + Vite | Backend: Express + MongoDB | Audio Engine: Tone.js | Sheet Rendering: VexFlow*  
+---
 - 🍄 **Discover Mushrooms in Finland** [(GitHub)](https://github.com/Nyukaa/BCNew/tree/main/Wordpress/discovermushrooms/app/public/wp-content/themes/nature) | [Demo](https://discovermushrooms.fwh.is/)
   
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -103,17 +122,27 @@
 - 📊 **Unicafe – Feedback App** [GitHub](https://github.com/Nyukaa/BCNew/blob/main/React/02-soveltavat-tehtavat/ex11/README.md) | [Demo](https://nyukaa.github.io/BCNew/Unicafe/)  
 - 🎭 **Anecdotes – Voting App** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex14) | [Demo](https://nyukaa.github.io/BCNew/Anecdotes/)  
 - 🌍 **Countries App** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex2_20) | [Demo](https://nyukaa.github.io/BCNew/Countries/)
-  
+---  
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white) 
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
 - 👥 **HR App – Employee Management** [GitHub](https://github.com/Nyukaa/hrApp) | [Live Demo](https://hrapp-ymdw.onrender.com/)  
-
+---
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Mongo](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 - 📞 **Phonebook – CRUD App** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/Phonebook_with_mongo) | [Demo](https://phonebook-backend-iagy.onrender.com/)
 -  ✏️ **Notes – CRUD App**  [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/01-oppimistehtavat/notes_mongo) |
 [ Demo](https://notes-with-mongo.onrender.com)
+---
+
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Mongo](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+- 📝 **Bloglist – React + Redux** [GitHub](https://github.com/Nyukaa/BCNew/blob/main/React/02-soveltavat-tehtavat/part7_bloglist_7/) | [Demo](https://bloglist-euwq.onrender.com/)
+A **blog application** built with **React, Redux Toolkit, and Vite** as part of the **Full Stack Open** course.  
+The app allows users to **log in, create blogs, like them, delete their own blogs, and add anonymous comments**.
+The project demonstrates **modern React architecture**, Redux state management, routing, and full-stack interaction with a Node.js + MongoDB backend.
 ---    
 📜 **JS Projects** [(GitHub)](https://github.com/Nyukaa/BCNew/blob/main/README.md)  
   

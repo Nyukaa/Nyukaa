@@ -43,7 +43,12 @@
 <img src="https://img.shields.io/badge/Render-1E1E1E?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
+### 🧪 Testing  
+<p align="center">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supertest-6DB33F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" />
+</p>
 ### 🎨 CMS  
 <p align="center">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -155,6 +160,31 @@ The project demonstrates **modern React architecture**, Redux state management, 
     A small interactive zoo app to practice DOM manipulation.  
   - **🏧 Pankkiautomaattisimulaattori** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/JSHarjoitukset/viikko_4/Pankki) | [Demo](https://pankkiautomaattisimulaattori.web.app)  
     A bank ATM simulator demonstrating user input and logic handling.  
+___
+## 🧪 Testing  
+
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supertest-6DB33F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" />
+</p>
+
+### Unit & Integration Tests – BlogList Backend (Part 4 Full Stack)  
+ **Project:** [BlogList Backend](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/BlogList_4_23)  
+ **Tests:** [Folder](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/BlogList_4_23/tests)
+
+**Covered:**
+- ✅ User creation & validation  
+- ✅ JWT login & authentication  
+- ✅ Blog CRUD operations & authorization  
+
+### Playwright E2E – BlogList (Part 5 Full Stack)  
+ **Project:** [BlogList E2E](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/BlogList_5-23/e2e-tests)
+
+**Covered:**
+- ✅ Simulate user actions: login, create, like, delete blogs  
+- ✅ Verify blog ordering & frontend–backend integration  
+
 ---
   🛠️ **Aalto University Web Software Development** [(GitHub)](https://github.com/Nyukaa/Aalto-Full-Stack)  
   *Lightweight management APIs built with Deno & Hono, PostgreSQL, Docker, and Eta templates.*  

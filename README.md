@@ -43,12 +43,14 @@
 <img src="https://img.shields.io/badge/Render-1E1E1E?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
 ### 🧪 Testing  
 <p align="center">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Supertest-6DB33F?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
+
 ### 🎨 CMS  
 <p align="center">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -210,7 +212,7 @@ ___
 ## 📚 Education  
 
 - **Business College Helsinki (2025– )** – Web Development (HTML, CSS, JS, SQL, WordPress, PHP, React)  
-- **Full Stack Open, Helsinki University (2024– )** – React, Node.js, GraphQL, TypeScript  
+- **Full Stack Open, Helsinki University (2024– )** – React, Node.js, TypeScript  
 - **Aalto University (2024)** – Web Development (Svelte, Node.js, Docker)  
 
 ---

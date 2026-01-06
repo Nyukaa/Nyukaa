@@ -174,16 +174,16 @@ ___
  **Tests:** [Folder](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/BlogList_4_23/tests)
 
 **Covered:**
-- ✅ User creation & validation  
-- ✅ JWT login & authentication  
-- ✅ Blog CRUD operations & authorization  
+- User creation & validation  
+- JWT login & authentication  
+- Blog CRUD operations & authorization  
 
 ### Playwright E2E – BlogList (Part 5 Full Stack)  
  **Project:** [BlogList E2E](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/BlogList_5-23/e2e-tests)
 
 **Covered:**
-- ✅ Simulate user actions: login, create, like, delete blogs  
-- ✅ Verify blog ordering & frontend–backend integration  
+- Simulate user actions: login, create, like, delete blogs  
+- Verify blog ordering & frontend–backend integration  
 
 ---
   🛠️ **Aalto University Web Software Development** [(GitHub)](https://github.com/Nyukaa/Aalto-Full-Stack)  

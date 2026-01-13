@@ -3,7 +3,7 @@
 🎯 **Junior Web Developer | Career changer with strong foundation in math & IT**  
 
 - 🌱 Currently studying **Web Development at Business College Helsinki**  
-- 🚀 Learning full stack with **Full Stack Open (University of Helsinki)**  
+- 🚀 Learning full stack with **Full Stack Open (University of Helsinki) 7 parts completed.**  
 - 🖥️ Building projects with **JavaScript, React, HTML, CSS, WordPress**  
 - ⚡ Past experience: **SEO, project coordination, education**
 

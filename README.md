@@ -187,6 +187,22 @@ ___
 **Covered:**
 - Simulate user actions: login, create, like, delete blogs  
 - Verify blog ordering & frontend–backend integration  
+---
+## 🎨 UI / UX Design
+
+- **Wilma – Student Absence Flow (Mobile)**  
+  Mid-fidelity wireframes showing a clear, student-friendly flow for marking absences.  
+  **User flow:** Home → Absences → Mark Absence → Select Date → Confirm  
+  🔗 [View wireframes](https://www.figma.com/design/fHnDzuxBpx2R2p2DJTgr1l/Untitled)
+
+- **Website Layout Wireframes**  
+  Medium-fidelity layouts inspired by *Work in Finland* / *BC Helsinki*, focusing on structure, hierarchy, and usability.  
+  🔗 [View wireframes](https://www.figma.com/design/CXkFg8IihJ7W2LjA8t3r9j/viikko_4)
+
+- **Aurora Yoga Studio – Website Concept**  
+  Calm, minimalist UI concept for a wellness studio, focusing on trust, clarity, and booking flow.  
+  🔗 [View wireframes](https://www.figma.com/design/Mr3a0aK6PAQVCNF7sjFJi3/Untitled)
+
 
 ---
   🛠️ **Aalto University Web Software Development** [(GitHub)](https://github.com/Nyukaa/Aalto-Full-Stack)  

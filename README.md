@@ -189,7 +189,7 @@ ___
 - Verify blog ordering & frontend–backend integration  
 ---
 ## 🎨 UI / UX Design
-
+<!-- This part will not be visible 
 - **Wilma – Student Absence Flow (Mobile)**  
   Mid-fidelity wireframes showing a clear, student-friendly flow for marking absences.  
   **User flow:** Home → Absences → Mark Absence → Select Date → Confirm  
@@ -197,7 +197,7 @@ ___
 
 - **Website Layout Wireframes**  
   Medium-fidelity layouts inspired by *Work in Finland* / *BC Helsinki*, focusing on structure, hierarchy, and usability.  
-  🔗 [View wireframes](https://www.figma.com/design/CXkFg8IihJ7W2LjA8t3r9j/viikko_4)
+  🔗 [View wireframes](https://www.figma.com/design/CXkFg8IihJ7W2LjA8t3r9j/viikko_4) -->
 
 - **Aurora Yoga Studio – Website Concept**  
   Calm, minimalist UI concept for a wellness studio, focusing on trust, clarity, and booking flow.  

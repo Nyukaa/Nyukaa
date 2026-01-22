@@ -60,7 +60,7 @@
 
 ## 🔑 Featured Projects  
 
-- 🌐 **Portfolio Website** [(GitHub)](https://github.com/Nyukaa/BCNew/tree/main/HTML/profile_page_project) | [Demo](https://nyukaa.github.io/BCNew/Portfolio/index.html)
+- 🌐 **Portfolio Website** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/HTML/profile_page_project) | [Demo](https://nyukaa.github.io/BCNew/Portfolio/index.html)
   
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -68,7 +68,7 @@
   
   *Responsive portfolio built with HTML, CSS, JS.*  
  ---  
-- 🌍 **Find Your Community**  [(GitHub)](https://github.com/Nyukaa/AppEvent)| [Demo](https://findcommunity.great-site.net/)  
+- 🌍 **Find Your Community**  [GitHub](https://github.com/Nyukaa/AppEvent) | [Demo](https://findcommunity.great-site.net/)  
 
   <p >
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP — WordPress templates, CPTs, meta fields, shortcodes" />
@@ -89,7 +89,7 @@
   
   *A custom WordPress prototype website for discovering **communities and events**, combining educational content, filtered listings, and detailed presentation pages. Fully responsive, bilingual (English & Finnish), and interactive with a React-based filtering interface.*
  --- 
-- 🎹 **Piano Trainer – React + Vite + Express** [(GitHub)](https://github.com/Nyukaa/musicApp/) | [Live Demo](https://musicapp-1-983j.onrender.com/)
+- 🎹 **Piano Trainer – React + Vite + Express** [GitHub](https://github.com/Nyukaa/musicApp/) | [Demo](https://musicapp-1-983j.onrender.com/)
 
   <p >
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -108,7 +108,7 @@
     *Full-stack piano training web app with real-time pitch detection, sheet music rendering, and interactive exercises.*  
   *Frontend: React + Vite | Backend: Express + MongoDB | Audio Engine: Tone.js | Sheet Rendering: VexFlow*  
 ---
-- 🍄 **Discover Mushrooms in Finland** [(GitHub)](https://github.com/Nyukaa/BCNew/tree/main/Wordpress/discovermushrooms/app/public/wp-content/themes/nature) | [Demo](https://discovermushrooms.fwh.is/)
+- 🍄 **Discover Mushrooms in Finland** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/Wordpress/discovermushrooms/app/public/wp-content/themes/nature) | [Demo](https://discovermushrooms.fwh.is/)
   
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -119,74 +119,68 @@
   Includes a **custom Tour Catalog plugin** with shortcode and widget to display upcoming guided mushroom tours.
 ---
 
-## ⚛️ React Projects  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## ⚛️ React Projects  
 
----
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-- 📊 **Unicafe – Feedback App** [GitHub](https://github.com/Nyukaa/BCNew/blob/main/React/02-soveltavat-tehtavat/ex11/README.md) | [Demo](https://nyukaa.github.io/BCNew/Unicafe/)  
-- 🎭 **Anecdotes – Voting App** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex14) | [Demo](https://nyukaa.github.io/BCNew/Anecdotes/)  
-- 🌍 **Countries App** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex2_20) | [Demo](https://nyukaa.github.io/BCNew/Countries/)
----  
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white) 
-![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
-- 👥 **HR App – Employee Management** [GitHub](https://github.com/Nyukaa/hrApp) | [Live Demo](https://hrapp-ymdw.onrender.com/)  
----
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Mongo](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-- 📞 **Phonebook – CRUD App** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/Phonebook_with_mongo) | [Demo](https://phonebook-backend-iagy.onrender.com/)
--  ✏️ **Notes – CRUD App**  [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/01-oppimistehtavat/notes_mongo) |
-[ Demo](https://notes-with-mongo.onrender.com)
----
-
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Mongo](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-- 📝 **Bloglist – React + Redux** [GitHub](https://github.com/Nyukaa/BCNew/blob/main/React/02-soveltavat-tehtavat/part7_bloglist_7/) | [Demo](https://bloglist-euwq.onrender.com/)
-A **blog application** built with **React, Redux Toolkit, and Vite** as part of the **Full Stack Open** course.  
-The app allows users to **log in, create blogs, like them, delete their own blogs, and add anonymous comments**.
-The project demonstrates **modern React architecture**, Redux state management, routing, and full-stack interaction with a Node.js + MongoDB backend.
----    
-📜 **JS Projects** [(GitHub)](https://github.com/Nyukaa/BCNew/blob/main/README.md)  
+- 👥 **HR App – Employee Management**  [GitHub](https://github.com/Nyukaa/hrApp) | [Demo](https://hrapp-ymdw.onrender.com/)
   
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-  - **🥞 Pannukakku sivut (1–3)** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/HTML/09-viikko/Pannukakku) | [Demo – Etusivu](https://pannukakku-87646.web.app) | [Demo – Tilaus](https://pannukakku-87646.web.app/tilaus.html)  
-    Pancake project pages, divided into order page and admin page.  
-  - **🐾 Pikku eläintarha** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/JSHarjoitukset/viikko_7/eläntarha) | [Demo](https://pikku-elaintarha-88c4c.web.app)  
-    A small interactive zoo app to practice DOM manipulation.  
-  - **🏧 Pankkiautomaattisimulaattori** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/JSHarjoitukset/viikko_4/Pankki) | [Demo](https://pankkiautomaattisimulaattori.web.app)  
-    A bank ATM simulator demonstrating user input and logic handling.  
-___
-## 🧪 Testing  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+  ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  
+  *Modern React + Vite app demonstrating state management, API integration, and Material UI. Focused on real-world CRUD and usability.*
 
-<p>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supertest-6DB33F?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" />
-</p>
+---
+  
+- 📝 **Bloglist – React + Redux**  [GitHub](https://github.com/Nyukaa/BCNew/blob/main/React/02-soveltavat-tehtavat/part7_bloglist_7/) | [Demo](https://bloglist-euwq.onrender.com/)
+  
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+  *Full Stack Open project with authentication and authorization. Users can log in, create blogs, like posts, delete their own content, and add comments.*
 
-### Unit & Integration Tests – BlogList Backend (Part 4 Full Stack)  
- **Project:** [BlogList Backend](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/BlogList_4_23)  
- **Tests:** [Folder](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/BlogList_4_23/tests)
+---
+  
+- 📞 **Phonebook – Full Stack CRUD**  [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/Phonebook_with_mongo) | [Demo](https://phonebook-backend-iagy.onrender.com/)
+  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+  *Full-stack React application with Node.js backend, REST APIs, and MongoDB persistence.*
 
-**Covered:**
-- User creation & validation  
-- JWT login & authentication  
-- Blog CRUD operations & authorization  
+---
+  
+- 🌍 **Countries App**  [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/ex2_20) | [Demo](https://nyukaa.github.io/BCNew/Countries/)
+  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  
+  *Lightweight React app using external APIs, conditional rendering, and data presentation.*
 
-### Playwright E2E – BlogList (Part 5 Full Stack)  
- **Project:** [BlogList E2E](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/BlogList_5-23/e2e-tests)
+---
+  
+- ✏️ **Notes App (Learning Project)**  [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/01-oppimistehtavat/notes_mongo) | [Demo](https://notes-with-mongo.onrender.com)
+  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+  *Simple CRUD app used to practice React fundamentals and backend integration.*
 
-**Covered:**
-- Simulate user actions: login, create, like, delete blogs  
-- Verify blog ordering & frontend–backend integration  
+
+--- ---    
+
+## 🧪 Testing
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
+
+**BlogList – Testing (Full Stack Open)**  
+🔗 [Backend & Tests](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/BlogList_4_23)  
+🔗 [E2E Tests](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/BlogList_5-23/e2e-tests)
+
+Unit, integration, and E2E tests covering authentication (JWT), user validation, blog CRUD operations, and frontend–backend integration.
+
 ---
 ## 🎨 UI / UX Design
 <!-- This part will not be visible 
@@ -222,6 +216,13 @@ ___
 
   - [Todo API ](https://github.com/Nyukaa/Aalto-Full-Stack/blob/main/final/todo/readme.md)  
   - [Book API ](https://github.com/Nyukaa/Aalto-Full-Stack/blob/main/final/book/readme.md)  
+---
+## 📜  Learning Projects (HTML / JS /CSS)  
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+Early learning exercises from my studies.  
+Focused on DOM manipulation and basic JavaScript logic. [GitHub](https://github.com/Nyukaa/BCNew)
 
 
 ---

@@ -130,16 +130,17 @@
   *Modern React + Vite app demonstrating state management, API integration, and Material UI. Focused on real-world CRUD and usability.*
 
 ---
-  
+<!--  
 - 📝 **Bloglist – React + Redux**  [GitHub](https://github.com/Nyukaa/BCNew/blob/main/React/02-soveltavat-tehtavat/part7_bloglist_7/) | [Demo](https://bloglist-euwq.onrender.com/)
   
   ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   
-  *Full Stack Open project with authentication and authorization. Users can log in, create blogs, like posts, delete their own content, and add comments.*
+  *Full Stack Open project with authentication and authorization. Users can log in, create blogs, like posts, delete their own content, and add comments.* 
 
 ---
+-->
   
 - 📞 **Phonebook – Full Stack CRUD**  [GitHub](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/Phonebook_with_mongo) | [Demo](https://phonebook-backend-iagy.onrender.com/)
   

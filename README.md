@@ -2,9 +2,12 @@
 
 🎯 **Junior Web Developer | Career changer with strong foundation in math & IT**  
 
-- 🌱 Currently studying **Web Development at Business College Helsinki**  
-- 🚀 Learning full stack with **Full Stack Open (University of Helsinki) 7 parts completed.**  
-- 🖥️ Building projects with **JavaScript, React, HTML, CSS, WordPress**  
+- 🌱 Currently studying **Web Development at Business College Helsinki**
+-  ✅ **Full Stack Open (University of Helsinki) – completed**
+  React, Redux, Node.js, TypeScript, testing & CI/CD fundamentals 
+- 🖥️ My main stack is **JavaScript / TypeScript, React, and Node.js**, with experience in relational and NoSQL databases.   
+- 🌐 I build and test full-stack applications, work with **WordPress & PHP**, and use **Docker, Git, and Linux** in everyday development.  
+- 🐍 I also have basic experience with **Python**.
 - ⚡ Past experience: **SEO, project coordination, education**
 
 🌿 Inspired by nature, motivated to learn, and eager to grow as a developer. 
@@ -19,6 +22,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
@@ -29,6 +33,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />  
@@ -231,8 +236,10 @@ Focused on DOM manipulation and basic JavaScript logic. [GitHub](https://github.
 ## 📚 Education  
 
 - **Business College Helsinki (2025– )** – Web Development (HTML, CSS, JS, SQL, WordPress, PHP, React)  
-- **Full Stack Open, Helsinki University (2024– )** – React, Node.js, TypeScript  
-- **Aalto University (2024)** – Web Development (Svelte, Node.js, Docker)  
+- **Full Stack Open – University of Helsinki (2024)**  React, Redux, Node.js, TypeScript, testing, CI/CD  
+  📜 Certificate completed
+- **Aalto University (2024)** – Web Development (Svelte, Node.js, Docker)
+  📜 Certificate completed
 
 ---
 

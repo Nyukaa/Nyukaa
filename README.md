@@ -236,7 +236,7 @@ Focused on DOM manipulation and basic JavaScript logic. [GitHub](https://github.
 ## 📚 Education  
 
 - **Business College Helsinki (2025– )** – Web Development (HTML, CSS, JS, SQL, WordPress, PHP, React)  
-- **Full Stack Open – University of Helsinki (2024)**  React, Redux, Node.js, TypeScript, testing, CI/CD  
+- **Full Stack Open – University of Helsinki (2026)**  React, Redux, Node.js, TypeScript, testing, CI/CD  
   📜 Certificate completed
 - **Aalto University (2024)** – Web Development (Svelte, Node.js, Docker)
   📜 Certificate completed

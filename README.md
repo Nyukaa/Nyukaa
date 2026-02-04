@@ -121,6 +121,31 @@
   *Custom WordPress theme with PHP functions, custom archive and single pages.*  
   Includes a **custom Tour Catalog plugin** with shortcode and widget to display upcoming guided mushroom tours.
 ---
+---
+
+### 🏥 Patientor — Full-Stack TypeScript Application  
+[GitHub](https://github.com/Nyukaa/typescriptFS9/tree/main/tasks/task9_30/backend) · [Live Demo](https://typescriptfs9.onrender.com/)
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Zod-Validation-3E67B1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Discriminated%20Unions-TypeScript-3178C6?style=for-the-badge" />
+</p>
+
+*A full-stack medical records app built with React, Express, and **strict TypeScript**.*
+
+**Focus:** advanced TypeScript typing, discriminated unions, runtime validation, and safe frontend–backend integration.
+
+
+---
+
 
 ## ⚛️ React Projects  
 

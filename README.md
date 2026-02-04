@@ -124,7 +124,7 @@
 ---
 
 ### 🏥 Patientor — Full-Stack TypeScript Application  
-[GitHub](https://github.com/Nyukaa/typescriptFS9/tree/main/tasks/task9_30/backend) · [Live Demo](https://typescriptfs9.onrender.com/)
+[GitHub](https://github.com/Nyukaa/typescriptFS9/tree/main/tasks/task9_30/) · [Live Demo](https://typescriptfs9.onrender.com/)
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />

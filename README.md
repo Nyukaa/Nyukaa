@@ -1,4 +1,4 @@
-# Hi, I'm Nyukaa 👋  
+# Hi, I'm Anna 👋  
 
 🎯 **Junior Web Developer | Career changer with strong foundation in math & IT**  
 

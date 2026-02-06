@@ -5,7 +5,7 @@
 -  🛠️ In the final stage of my **Web Development** program at Business College Helsinki." 
 -  ✅ **Full Stack Open (University of Helsinki) – completed** React, Redux, Node.js, TypeScript, testing & CI/CD fundamentals 
 - 🖥️ My main stack is **JavaScript / TypeScript, React, and Node.js**, with experience in relational and NoSQL databases.   
-- 🌐 I build and test full-stack applications, work with **WordPress & PHP**, use **Docker, Git, and Linux** in everyday development, I also have basic experience with **Python**.
+- 🌐 I build and test full-stack applications, work with **WordPress & PHP**, use **Docker, Git, and Linux** in everyday development, I also have basic experience with **Python** and **C++**.
 - ⚡ Past experience: **SEO, project coordination, education**
 
 🌿 Inspired by nature, motivated to learn, and eager to grow as a developer. 

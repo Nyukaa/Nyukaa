@@ -47,6 +47,15 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
+### 📱 Mobile Apps / React Native
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-Expo-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apollo%20Client-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-F1483F?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+
 ### 🧪 Testing  
 <p align="center">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
@@ -122,8 +131,8 @@
   Includes a **custom Tour Catalog plugin** with shortcode and widget to display upcoming guided mushroom tours.
 ---
 ---
-
-### 🏥 Patientor — Full-Stack TypeScript Application  
+## TypeScript
+### 🏥 Patientor — Full-Stack Application  
 [GitHub](https://github.com/Nyukaa/typescriptFS9/tree/main/tasks/task9_30/) · [Live Demo](https://typescriptfs9.onrender.com/)
 
 <p>
@@ -194,6 +203,17 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   
   *Simple CRUD app used to practice React fundamentals and backend integration.*
+---
+## React Native + Apollo GraphQL
+🏗 **Rate Repository App** [GitHub](https://github.com/Nyukaa/ReactNative/) 
+
+![React Native](https://img.shields.io/badge/React%20Native-Expo-61DAFB)
+![Apollo Client](https://img.shields.io/badge/Apollo-Client-311C87)
+![GraphQL](https://img.shields.io/badge/GraphQL-F1483F)
+
+A **junior-friendly mobile app** for browsing GitHub repositories, creating reviews, and authenticating users with **JWT**.  
+Built with **React Native, Apollo Client, GraphQL**, and **SQLite**.  
+
 
 
 --- ---    

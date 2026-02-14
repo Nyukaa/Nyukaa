@@ -220,6 +220,8 @@ Built with **React Native, Apollo Client, GraphQL**, and **SQLite**.
 
 ## 🧪 Testing
 
+  *Together, these projects demonstrate practical experience in testing both web and mobile applications across frontend and backend layers.*
+ 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Supertest](https://img.shields.io/badge/Supertest-000000?style=for-the-badge)
 ![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
@@ -229,6 +231,13 @@ Built with **React Native, Apollo Client, GraphQL**, and **SQLite**.
 🔗 [E2E Tests](https://github.com/Nyukaa/BCNew/tree/main/React/02-soveltavat-tehtavat/BlogList_5-23/e2e-tests)
 
 Unit, integration, and E2E tests covering authentication (JWT), user validation, blog CRUD operations, and frontend–backend integration.
+
+**Rate Repository App – React Native Testing**  
+🔗 [Components & Tests](https://github.com/Nyukaa/ReactNative/tree/main/rate-repository-app/src/components)
+
+Unit & integration tests with React Native Testing Library for UI components and form logic.
+
+
 
 ---
 ## 🎨 UI / UX Design

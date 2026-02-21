@@ -119,17 +119,7 @@
   
     *Full-stack piano training web app with real-time pitch detection, sheet music rendering, and interactive exercises.*  
   *Frontend: React + Vite | Backend: Express + MongoDB | Audio Engine: Tone.js | Sheet Rendering: VexFlow*  
----
-- 🍄 **Discover Mushrooms in Finland** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/Wordpress/discovermushrooms/app/public/wp-content/themes/nature) | [Demo](https://discovermushrooms.fwh.is/)
-  
-  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
-  *Custom WordPress theme with PHP functions, custom archive and single pages.*  
-  Includes a **custom Tour Catalog plugin** with shortcode and widget to display upcoming guided mushroom tours.
----
+
 ---
 ## TypeScript
 ### 🏥 Patientor — Full-Stack Application  
@@ -212,8 +202,20 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-F1483F)
 
 A **junior-friendly mobile app** for browsing GitHub repositories, creating reviews, and authenticating users with **JWT**.  
-Built with **React Native, Apollo Client, GraphQL**, and **SQLite**.  
+Built with **React Native, Apollo Client, GraphQL**, and **SQLite**. 
 
+---
+## WordPress theme with PHP
+- 🍄 **Discover Mushrooms in Finland** [GitHub](https://github.com/Nyukaa/BCNew/tree/main/Wordpress/discovermushrooms/app/public/wp-content/themes/nature) | [Demo](https://discovermushrooms.fwh.is/)
+  
+  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  
+  *Custom WordPress theme with PHP functions, custom archive and single pages.*  
+  Includes a **custom Tour Catalog plugin** with shortcode and widget to display upcoming guided mushroom tours.
+---
 
 
 --- ---    

@@ -80,6 +80,35 @@
   
   *Responsive portfolio built with HTML, CSS, JS.*  
  ---  
+ - 📘 **Language Learning App**  
+  [GitHub](https://github.com/Nyukaa/Language-Learning-App/tree/main)) | [Live Demo](https://your-demo-link.com)
+
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Recharts-8884d8?style=for-the-badge" />
+    
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </p>
+
+  
+ 
+
+  *Lightweight vocabulary learning app built around real-text reading.  
+  Select a word → create a flashcard with context → track progress visually.*
+
+  *Frontend: React + Vite + Tailwind + TypeScript | Backend: Express + Supabase (Postgres) | Auth: Google OAuth (JWT validation)*
+
+ --- 
 - 🌍 **Find Your Community**  [GitHub](https://github.com/Nyukaa/AppEvent) | [Demo](https://findcommunity.great-site.net/)  
 
   <p >

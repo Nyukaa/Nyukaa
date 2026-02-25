@@ -80,8 +80,7 @@
   
   *Responsive portfolio built with HTML, CSS, JS.*  
  ---  
- - 📘 **Language Learning App**  
-  [GitHub](https://github.com/Nyukaa/Language-Learning-App/tree/main)) | [Live Demo](https://your-demo-link.com)
+ - 📘 **Language Learning App**  [GitHub](https://github.com/Nyukaa/Language-Learning-App/tree/main) | [Live Demo](https://your-demo-link.com)
 
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />

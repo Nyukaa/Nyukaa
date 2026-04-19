@@ -1,6 +1,6 @@
 # Hi, I'm Anna 👋
 
-Hi, I'm Anna — a full-stack developer based in Espoo, Finland.
+Full-stack developer based in Espoo, Finland.
 
 With a background in mathematics, I enjoy solving problems and building structured, reliable systems.
 

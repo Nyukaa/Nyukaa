@@ -35,7 +35,8 @@ I’m currently gaining professional experience as a backend developer intern, w
 | [Rate Repository App](https://github.com/Nyukaa/ReactNative/) | Mobile app for browsing & reviewing GitHub repos | React Native · GraphQL · Apollo · SQLite | — |
 | [Aalto APIs](https://github.com/Nyukaa/Aalto-Full-Stack) | REST APIs with auth, Docker, and PostgreSQL | Deno · Hono · PostgreSQL · Docker | — |
 ---
-
+## ⚙️ All my [projects](https://github.com/Nyukaa/BCNew/blob/main/my_projects.md)
+___
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-shitikova-985b62362/)

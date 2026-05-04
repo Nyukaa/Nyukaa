@@ -1,6 +1,6 @@
 # Hi, I'm Anna 👋
 
-Full-stack developer with a mathematics background, specializing in TypeScript/React/Node.js. I build reliable, structured systems — currently deepening production experience as a backend intern working with APIs and databases.
+Full-stack developer with a mathematics background, specializing in TypeScript/React/Node.js. I build reliable, structured systems — currently working as a backend developer at Ellarion Tales, building production systems for 1,000+ users.
 
 ---
 
@@ -30,7 +30,7 @@ Full-stack developer with a mathematics background, specializing in TypeScript/R
 | [Find Your Community](https://github.com/Nyukaa/AppEvent) | Bilingual platform for discovering communities and events with advanced filtering and CMS-driven content | WordPress · PHP · React | [Demo ↗](https://findcommunity.great-site.net/) |
 | [Rate Repository App](https://github.com/Nyukaa/ReactNative/) | Mobile app for browsing and reviewing GitHub repositories with offline storage | React Native · GraphQL · Apollo · SQLite | — |
 | [Aalto APIs](https://github.com/Nyukaa/Aalto-Full-Stack) | Collection of REST APIs with authentication, containerization, and PostgreSQL integration | Deno · Hono · PostgreSQL · Docker | — |
-
+___
 ## ⚙️ All my [projects](https://github.com/Nyukaa/BCNew/blob/main/my_projects.md)
 ___
 ## 📫 Connect

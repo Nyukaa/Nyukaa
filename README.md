@@ -6,7 +6,7 @@ Full-stack developer with a mathematics background, specializing in TypeScript/R
 
 ## 🛠 Stack
 
-**Frontend:** TypeScript · React · Next.js (App Router) · Redux Toolkit · Tailwind CSS · React Native · MUI  
+**Frontend:** TypeScript · React · Next.js · Redux Toolkit · Tailwind CSS · React Native · MUI  
 
 **Backend:** Node.js · Express · Next.js API Routes · PostgreSQL · Sequelize · MongoDB · Supabase · JWT / OAuth  
 

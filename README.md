@@ -14,7 +14,7 @@ Full-stack developer with a mathematics background, specializing in TypeScript/R
 
 **Tools:** Docker · Git · Jest · Supertest · Playwright · CI/CD · ESLint 
 
-**Additional:** PHP (WordPress) · Python · Go · C# (basic) 
+**Additional:** PHP (WordPress) · Python · Go (basic) · C# (basic) 
 
 ---
 

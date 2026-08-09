@@ -12,6 +12,8 @@ Full-stack developer with a mathematics background, specializing in TypeScript/R
 
 **Core:** REST APIs · Authentication · State Management · Role-based access control (RBAC) · API Design · Data Modeling  · Serverless · RAG (TF-IDF + Cosine Similarity)
 
+**Cloud & DevOps:** Microsoft Azure · Azure DevOps · Azure Pipelines · Azure Functions · Azure App Service · Azure Container Registry (ACR) · Docker · CI/CD · GitHub Actions
+
 **Tools:** Docker · Git · Jest · Supertest · Playwright · CI/CD · ESLint 
 
 **Additional:** PHP (WordPress) · Python · Go (basic) · C#/.NET (basic) 
@@ -22,7 +24,7 @@ Full-stack developer with a mathematics background, specializing in TypeScript/R
 
 | Project | What it does | Stack | Demo |
 |--------|-------------|------|------|
-| [Language Learning App](https://github.com/Nyukaa/Language-Learning-App) | Full-stack language learning platform with AI-powered voice → flashcards and context-based vocabulary training | React · TS · Express · Supabase · PostgreSQL · Gemini AI · OAuth · Docker · CI/CD | [Demo ↗](https://typescriptfs9-1.onrender.com/) |
+| [Language Learning App](https://github.com/Nyukaa/Language-Learning-App) | Full-stack language learning platform with AI-powered voice → flashcards and context-based vocabulary training | React · TS · Express · Supabase · PostgreSQL · Gemini AI · OAuth · Docker · Azure DevOps · Azure Pipelines | [Demo ↗](https://typescriptfs9-1.onrender.com/) |
 | [Nordic Shop (RAG E-Commerce)](https://github.com/Nyukaa/ShopRAG) | E-commerce platform with custom-built semantic search and product recommendations (RAG from scratch) | Next.js · TS · Supabase · PostgreSQL · Redux · Tailwind · OAuth · Stripe  | [Demo ↗](https://nordic-shop-git-main-annashitikova-9718s-projects.vercel.app/) |
 | Odysseus LARP — Registration System | Registration platform for live events with real-time capacity, balancing rules, and admin management (built for ~1,000 users) | React · Node.js · Express · PostgreSQL · Sequelize · Tailwind · CI/CD | Confidential (NDA) |
 | [Piano Trainer](https://github.com/Nyukaa/musicApp/) | Interactive piano training app with real-time pitch detection and dynamic sheet music rendering | React · Express · MongoDB · Tone.js · VexFlow · OAuth | [Demo ↗](https://musicapp-1-983j.onrender.com/) |

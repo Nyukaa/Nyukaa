@@ -1,6 +1,7 @@
 # Hi, I'm Anna 👋
 
-Full-stack developer with a mathematics background, specializing in TypeScript/React/Node.js. I build reliable, structured systems — currently working as a backend developer at Ellarion Tales, building production systems for 1,000+ users.
+Full-stack developer with a mathematics background, specializing in TypeScript/React/Node.js. I build reliable, structured systems. Previously, I worked as a backend developer at Ellarion Tales, where I developed production systems for 1,000+ users.
+Currently, I am expanding my expertise through **Anthropic Academy Courses**, focusing on building with the **Claude API**.
 
 ---
 

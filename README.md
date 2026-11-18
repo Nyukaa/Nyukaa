@@ -1,7 +1,19 @@
 # Hi, I'm Anna 👋
 
-Full-stack developer with a mathematics background, specializing in TypeScript/React/Node.js. I build reliable, structured systems. Previously, I worked as a backend developer at Ellarion Tales, where I developed production systems for 1,000+ users.
-Currently, I am expanding my expertise through **Anthropic Academy Courses**, focusing on building with the **Claude API**.
+Full-stack developer with a mathematics background, specializing in TypeScript/React/Node.js. I build reliable, structured systems. Previously, I worked as a backend developer at Ellarion Tales, where I developed production systems for 1,000+ users. Currently, I am expanding my expertise through Anthropic Academy Courses, focusing on building with the Claude API.
+
+🛠 Stack
+Backend: Node.js · Express · Python · FastAPI · REST APIs · Next.js API Routes · PostgreSQL · Sequelize · MongoDB · Supabase · JWT / OAuth
+
+Frontend: TypeScript · React · Next.js · Redux Toolkit · Tailwind CSS · MUI · React Native · HTML5 · CSS3
+
+AI Engineering: Claude API · Model Context Protocol (MCP) · AI Agents · Tool Use · Prompt Evaluation · Prompt Engineering · RAG (TF-IDF & Cosine Similarity) · OpenAI API · Gemini API · Claude Code · GitHub Copilot · Figma AI
+
+Cloud & DevOps: Microsoft Azure · Azure DevOps · Azure Pipelines · Azure Functions · Azure App Service · Azure Container Registry (ACR) · Docker · Docker Compose · CI/CD · GitHub Actions
+
+Tools & Testing: Git · Jest · Supertest · Playwright · ESLint · Figma
+
+Additional: PHP (WordPress) · C# · Go (basic) · C++ (basic) · SQL
 
 ---
 

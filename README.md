@@ -12,7 +12,7 @@ Recently, I built an AI financial coach at **Junction 2026** (S-Bank challenge) 
 
 **Frontend:** TypeScript · React · Next.js · Redux Toolkit · Tailwind CSS · MUI · React Native · HTML5 · CSS3 
 
-**AI Engineering:** Claude API · Model Context Protocol (MCP) · AI Agents · Tool Use · Prompt Evaluation · Prompt Engineering · RAG (TF-IDF & Cosine Similarity) · OpenAI API · Gemini API · Claude Code · GitHub Copilot · ChatGPT · Figma AI
+**AI Engineering:** Claude API · Model Context Protocol (MCP) · AI Agents · Tool Use · Prompt Evaluation · Prompt Caching · Token Optimization · Prompt Engineering · RAG (TF-IDF & Cosine Similarity) · OpenAI API · Gemini API · Claude Code · GitHub Copilot · Figma AI
 
 **Cloud & DevOps:** Microsoft Azure · Azure DevOps · Azure Pipelines · Azure Functions · Azure App Service · Azure Container Registry (ACR) · Docker · Docker Compose · CI/CD · GitHub Actions
 

@@ -24,10 +24,10 @@ Recently, I built an AI financial coach at **Junction 2026** (S-Bank challenge) 
 ---
 
 ## 🔑 Featured Projects
-https://github.com/Nyukaa/Nyukaa/blob/main/README.md
+
 | Project | What it does | Stack | Demo |
 |--------|-------------|------|------|
-|**[Money Polku — AI Financial Coach](https://github.com/Nyukaa/junction-2026-holy-ravioli)** | AI financial coach with tool use, confirm-before-save plan changes, prompt caching and automated prompt evaluation. Built at **Junction 2026** for the S-Bank challenge | TypeScript · Next.js · Claude API · PostgreSQL · Tailwind CSS | [Code ↗](https://github.com/Nyukaa/junction-2026-holy-ravioli) |
+|**[Money Polku — AI Financial Coach](https://github.com/Nyukaa/junction-2026-holy-ravioli)** | AI financial coach with tool use, confirm-before-save plan changes, prompt caching and automated prompt evaluation (input tokens −58% in evaluation scenarios). Built at **Junction 2026** for the S-Bank challenge | TypeScript · Next.js · Claude API · PostgreSQL · Tailwind CSS | [Code ↗](https://github.com/Nyukaa/junction-2026-holy-ravioli) |
 |[Nordic Shop Agent — AI Assistant](https://github.com/Nyukaa/ShopRAG/tree/main/nordic-shop-agent) | AI shopping assistant with intent routing, autonomous tool execution, context memory, and automated prompt evaluation| Python · FastAPI · Claude API · MCP · Next.js · React · TypeScript · PostgreSQL · Supabase | [Code ↗](https://github.com/Nyukaa/ShopRAG/tree/main/nordic-shop-agent) |
 | [Nordic Shop (RAG E-Commerce)](https://github.com/Nyukaa/ShopRAG) | E-commerce platform with custom-built semantic search and product recommendations (RAG from scratch) | Next.js · TS · Supabase · PostgreSQL · Redux · Tailwind · OAuth · Stripe  | [Demo ↗](https://nordic-shop-git-main-annashitikova-9718s-projects.vercel.app/)  · [Agent ↗](https://github.com/Nyukaa/ShopRAG/tree/main/nordic-shop-agent)|
 | [Odysseus LARP — Registration System](https://github.com/mashalink/EllarionTales) | Registration platform for live events with real-time capacity, balancing rules, and admin management (built for ~1,000 users) | React · Node.js · Express · PostgreSQL · Sequelize · Tailwind · CI/CD | Confidential (NDA) |
